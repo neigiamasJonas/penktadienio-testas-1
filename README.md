@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](NEEDS URL)](NEEDS URL)
 
-# UFO
+# PENKTADIENIO TESTAS NR.1
 
 _35 group / Penktadienio Testas nr.1_
 
